@@ -1,4 +1,4 @@
-[yolan.design](https://yolan.design) portfolio
+[yolan.design](https://yolan.design) upcoming portfolio
 
 <br>
 <br>
@@ -10,3 +10,8 @@
 
 ---
 ---
+
+<br>
+<br>
+
+current : [yolan.art](https://yolan.art)
